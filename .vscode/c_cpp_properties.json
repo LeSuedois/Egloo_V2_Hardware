@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino33BLE",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/Library/Arduino15/packages/arduino/hardware/samd/**",
+                "~/Library/Arduino15/packages/arduino/hardware/mbed/**",
+                "~/Documents/Arduino/libraries/ArduinoBLE/**",
+                "~/Documents/Arduino/libraries/Adafruit_NeoPixel/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
